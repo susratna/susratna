@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sushmitha
+- 👋 Hi, I’m @Sushmitha
 - 👀 I’m interested in Agile
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on Agile,Devops
